@@ -73,7 +73,8 @@ Nuestro objetivo es impulsar la transformación de ideas en realidades tangibles
 ## 📫 Conecta con nosotros:
 - 🌐 [Facebook - Loggia Zero](https://www.facebook.com/LoggiaZero)  
 - 📷 [Instagram - Loggia Zero](https://www.instagram.com/loggiazero?igsh=dG9heDA2OXU5cWw0)
-- 📺 [YouTube - Loggia Zero](https://www.youtube.com/@LOGGIAZERO)  
+- 📺 [YouTube - Loggia Zero](https://www.youtube.com/@LOGGIAZERO)
+- 📱 [TikTok - Loggia Zero](https://www.tiktok.com/@loggia.zero)
 - 🎮 Twitch: próximamente  
 
 ---
