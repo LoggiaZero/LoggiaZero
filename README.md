@@ -17,6 +17,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/LoggiaZero/count.svg?"  />
+</div>
+
+---
+
 ## 🚀 ¿Quiénes somos?
 En **Loggia Zero** combinamos creatividad y tecnología para impulsar proyectos a nuevas alturas.  
 Somos especialistas en:
