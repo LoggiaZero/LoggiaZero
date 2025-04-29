@@ -37,11 +37,10 @@ Somos especialistas en:
 ## 🎯 Visión
 Ser una empresa mexicana de referencia nacional en innovación tecnológica, liderando el camino hacia un mundo más inteligente, 
 automatizado y conectado. En LOGGIA ZERO, cada solución que desarrollamos busca transformar industrias y mejorar vidas a través del poder de la tecnología.
----
 
 ---
 
-##🚀 Misión
+## 🚀 Misión
 En LOGGIA ZERO, impulsamos el futuro a través de soluciones tecnológicas que integran inteligencia artificial, 
 automatización y software a la medida. Ayudamos a las empresas a transformar su presente con innovación, 
 precisión y un enfoque humano, poniendo la tecnología al servicio de su crecimiento.
