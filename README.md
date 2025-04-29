@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Banner de Loggia Zero -->
-  <img src="https://via.placeholder.com/1000x250.png?text=Loggia+Zero+%7C+Tecnología+y+Creatividad" alt="Loggia Zero Banner" />
+  <img src="https://github.com/LoggiaZero/LoggiaZero/blob/a90a40b4b1172d1a613aae5ca002516dd38c906c/ImgR/bannerloggia.png" alt="Loggia Zero Banner" />
 </p>
 
 <h1 align="center">Loggia Zero</h1>
@@ -57,14 +57,17 @@ Nuestro objetivo es impulsar la transformación de ideas en realidades tangibles
 | 🔥 Flux orgánico Loggia Zero | Electrónica y soldadura |
 
 ---
-<!--
+
 ## 🧪 Proyectos destacados
 
-### 📌 Proyecto 1: *(Nombre del proyecto)*
-> *(Breve descripción del proyecto: qué soluciona, qué tecnologías se usaron y para qué se diseñó.)*
+### 📌 Proyecto 1: ZLLevel
+Esta aplicación utiliza los sensores internos del dispositivo (acelerómetro) para medir la inclinación de superficies y mostrar al usuario si se encuentra nivelada.
+No se recolecta, transmite ni almacena ningún tipo de dato personal o de ubicación.
+El único permiso utilizado es el de vibración para proporcionar retroalimentación háptica cuando la superficie está correctamente nivelada.
+Esta versión es la primera entrega como parte del portafolio de LoggiaZero.
 
 ---
-
+<!--
 ### 📌 Proyecto 2: *(Nombre del proyecto)*
 > *(Breve descripción del segundo proyecto: qué objetivo tuvo, qué retos superaste y qué resultados obtuvo.)*
 
