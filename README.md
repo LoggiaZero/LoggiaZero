@@ -66,6 +66,28 @@ No se recolecta, transmite ni almacena ningún tipo de dato personal o de ubicac
 El único permiso utilizado es el de vibración para proporcionar retroalimentación háptica cuando la superficie está correctamente nivelada.
 Esta versión es la primera entrega como parte del portafolio de LoggiaZero.
 
+<div align="center">
+  <table>
+    <tr>
+      <td style="position: relative;">
+        <img src="https://github.com/LoggiaZero/LoggiaZero/blob/88ffa123cf40027231aebb3383bc383142f3fd3b/ImgR/QR%20ZLLevel.jpeg" width="300" alt="Imagen 1"/>
+        <div style="position: absolute; bottom: 10px; left: 0; width: 100%; background: rgba(0,0,0,0.6); color: white; text-align: center; font-weight: bold;">Obtenla aquí, solo para Android</div>
+      </td>
+      <td>
+        <img src="https://github.com/LoggiaZero/LoggiaZero/blob/88ffa123cf40027231aebb3383bc383142f3fd3b/ImgR/cap%20ZLlevel1.jpg" width="300" alt="Imagen 2"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/LoggiaZero/LoggiaZero/blob/88ffa123cf40027231aebb3383bc383142f3fd3b/ImgR/cap%20ZLlevel2.jpg" width="300" alt="Imagen 3"/>
+      </td>
+      <td>
+        <img src="https://github.com/LoggiaZero/LoggiaZero/blob/9efc8d56651411051c28a1386cfd2d6015738c39/ImgR/Play.jpg" width="300" alt="Imagen 4"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 <!--
 ### 📌 Proyecto 2: *(Nombre del proyecto)*
