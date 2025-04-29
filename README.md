@@ -35,12 +35,18 @@ Somos especialistas en:
 ---
 
 ## 🎯 Visión
-En Loggia Zero aspiramos a ser un referente en innovación tecnológica,
-ofreciendo soluciones creativas que integren el diseño 3D, el desarrollo de software y la electrónica de forma accesible y eficiente.
-Nuestro objetivo es impulsar la transformación de ideas en realidades tangibles que mejoren la vida de las personas y el futuro de las industrias.
+Ser una empresa mexicana de referencia nacional en innovación tecnológica, liderando el camino hacia un mundo más inteligente, 
+automatizado y conectado. En LOGGIA ZERO, cada solución que desarrollamos busca transformar industrias y mejorar vidas a través del poder de la tecnología.
+---
 
 ---
 
+##🚀 Misión
+En LOGGIA ZERO, impulsamos el futuro a través de soluciones tecnológicas que integran inteligencia artificial, 
+automatización y software a la medida. Ayudamos a las empresas a transformar su presente con innovación, 
+precisión y un enfoque humano, poniendo la tecnología al servicio de su crecimiento.
+
+---
 ## 💡 ¿Qué hacemos?
 - **Prototipado rápido**, piezas mecánicas, gadgets personalizados.
 - **Aplicaciones de escritorio**, **automatización**, **sistemas embebidos**.
